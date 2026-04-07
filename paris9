@@ -3,4 +3,4 @@
 version: 1.0.0
 codeOwners:fdgf
   - '0xeF82A503C1b7Eg28e13228F4342C7362aCA8092D0'
-quorum: 1
+quorum: 1h
